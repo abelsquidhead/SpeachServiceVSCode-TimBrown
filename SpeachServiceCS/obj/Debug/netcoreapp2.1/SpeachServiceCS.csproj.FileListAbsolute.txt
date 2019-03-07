@@ -1,0 +1,11 @@
+C:\Users\abel\Source\github\AbelSquidHead\SpeachServiceVSCode-TimBrown\SpeachServiceCS\bin\Debug\netcoreapp2.1\SpeachServiceCS.deps.json
+C:\Users\abel\Source\github\AbelSquidHead\SpeachServiceVSCode-TimBrown\SpeachServiceCS\bin\Debug\netcoreapp2.1\SpeachServiceCS.runtimeconfig.json
+C:\Users\abel\Source\github\AbelSquidHead\SpeachServiceVSCode-TimBrown\SpeachServiceCS\bin\Debug\netcoreapp2.1\SpeachServiceCS.runtimeconfig.dev.json
+C:\Users\abel\Source\github\AbelSquidHead\SpeachServiceVSCode-TimBrown\SpeachServiceCS\bin\Debug\netcoreapp2.1\SpeachServiceCS.dll
+C:\Users\abel\Source\github\AbelSquidHead\SpeachServiceVSCode-TimBrown\SpeachServiceCS\obj\Debug\netcoreapp2.1\SpeachServiceCS.csprojAssemblyReference.cache
+C:\Users\abel\Source\github\AbelSquidHead\SpeachServiceVSCode-TimBrown\SpeachServiceCS\obj\Debug\netcoreapp2.1\SpeachServiceCS.csproj.CoreCompileInputs.cache
+C:\Users\abel\Source\github\AbelSquidHead\SpeachServiceVSCode-TimBrown\SpeachServiceCS\obj\Debug\netcoreapp2.1\SpeachServiceCS.AssemblyInfoInputs.cache
+C:\Users\abel\Source\github\AbelSquidHead\SpeachServiceVSCode-TimBrown\SpeachServiceCS\obj\Debug\netcoreapp2.1\SpeachServiceCS.AssemblyInfo.cs
+C:\Users\abel\Source\github\AbelSquidHead\SpeachServiceVSCode-TimBrown\SpeachServiceCS\bin\Debug\netcoreapp2.1\SpeachServiceCS.pdb
+C:\Users\abel\Source\github\AbelSquidHead\SpeachServiceVSCode-TimBrown\SpeachServiceCS\obj\Debug\netcoreapp2.1\SpeachServiceCS.dll
+C:\Users\abel\Source\github\AbelSquidHead\SpeachServiceVSCode-TimBrown\SpeachServiceCS\obj\Debug\netcoreapp2.1\SpeachServiceCS.pdb
